@@ -6,6 +6,7 @@ public class Try1 {
 		System.out.println("Try");
 		System.out.println("Test");
 		System.out.println("kkk");
+		System.out.println("suka");
 	}
 
 }
