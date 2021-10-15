@@ -7,6 +7,8 @@ public class Try1 {
 	
 		System.out.println("Testing 15 Okt");
 		
+		System.out.print("Berjaya");
+		
 	}
 
 }
