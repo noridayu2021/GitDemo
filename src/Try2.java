@@ -9,6 +9,8 @@ public class Try2 {
 		
 		System.out.print("Berjaya");
 		
+		System.out.println("Tester dan terkini");
+		
 		
 		
 	}
