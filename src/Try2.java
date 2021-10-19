@@ -1,5 +1,5 @@
 
-public class Try1 {
+public class Try2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,7 +9,9 @@ public class Try1 {
 		
 		System.out.print("Berjaya");
 		
-		System.out.print("Esok lab");
+		System.out.println("Tester dan terkini");
+		
+		
 		
 	}
 
