@@ -9,7 +9,7 @@ public class Try1 {
 		
 		System.out.print("Berjaya");
 		
-		
+		System.out.print("Esok lab");
 		
 	}
 
